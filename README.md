@@ -1,1 +1,2 @@
-# credit-risk-classification
+This analysis is set to determine the potential for future bank loan risks associated with individual credit borrowers. Given the data on the borrower can we predict the creditworthiness of the borrower?
+The data shows loan size, interest rate, borrower income, debt to income, number of accounts, derogatory marks, total debt, and loan status.To begin, the data was separated into the features that we would be entering into the model to use to make predictions on future loan status. A regression model was made to make predictions and we can generate a confusion matrix and classification report to analyze the accuracy of the results.
